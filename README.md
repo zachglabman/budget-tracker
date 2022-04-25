@@ -1,8 +1,3 @@
-# CSE330
-Zach Glabman 466464 zachglabman
-
-Justin Novellas 486351 jj4619
-
 # Expense and Budget Tracker
 
 ## How to use:
@@ -17,7 +12,7 @@ Justin Novellas 486351 jj4619
 - Users can add, delete and get all transactions using express router
 - Specify an expense by entering a negative value and an income with a positive value
 
-### New Tools and Frameworks
+### New Tools and Frameworks learned
 - React.js (Hooks, Context API, Concurrently, Recharts, etc)
 - Express.js
 - MongoDB
